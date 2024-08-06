@@ -1,0 +1,32 @@
+nav {
+    text-align: center;
+}
+.fixsize {
+    width: 100px;
+    height: auto;
+}
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+a:link{
+    color: white;
+    font-size: 25px;
+}
+a:visited{
+    color: black;
+}
+.status{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+.homepic{
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: 50 auto;
+}
+body{
+    background-color: rgb(68, 66, 66);
+}

@@ -1,0 +1,48 @@
+
+.title{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+.navMenu{
+    float: left;
+}
+a:link{
+    color: rgb(253, 251, 251);
+    font-size: 30px;
+    
+}
+a:visited{
+    color: rgb(57, 57, 83);
+}
+.PFP{
+    width: 250px;
+    border-radius: 75px;
+    float: center;
+}
+.bio{
+    text-align: center;
+    font-size: 25px;
+}
+.skills{
+    text-align: center;
+    font-size: 25px;
+}
+body{
+    background-color: rgb(72, 143, 172);
+}
+.bioBox{
+    background-color: rgb(255, 255, 255);
+    margin: 75;
+    border-radius: 50px;
+    border-style: inset;
+    clear: both;
+}
+.skillsBox{
+    background-color: black;
+    color: white;
+    margin: 75px;
+    border-radius: 50px;
+    border-style: outset;
+    clear: both;
+}

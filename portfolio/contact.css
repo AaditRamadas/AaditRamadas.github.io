@@ -1,0 +1,45 @@
+.title_box{
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    justify-content: center; 
+    background-color: rgb(64, 66, 64); 
+    align-items: center;  
+    font-size: 30px;    
+    color: white;
+}
+.navMenu{
+    font-size: 25px;
+    color: black;
+}
+.navMenu{
+    
+    color: grey;    
+}
+.email{
+    border-style: solid;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    margin-top: 100px;
+    font-size: 30px;
+}
+.phoneNumber{
+    border-style: solid;
+    background-color: rgb(185, 93, 77);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.instagram{
+    border-style: solid;
+    background-color: rgb(88, 182, 108);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
